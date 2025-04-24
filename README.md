@@ -1,4 +1,4 @@
-#### NAME: M.SUREN>
+#### NAME: M.SUREN.
 #### REG NO: 2122223230222
 # EX 3 Uploading temperature sensor data in Thing Speak cloud
 
